@@ -33,13 +33,9 @@ You can install the all requirements for running the code properly from **requir
 
 #### Corrupt_File_Main.py
 
-![UI_Main](https://user-images.githubusercontent.com/96762636/231773394-9fabc97a-27f5-4cc0-8460-0690b347bdef.jpg)
+![UI_Main](https://user-images.githubusercontent.com/96762636/231774475-b9178aba-25f9-41c0-9808-260cc08f083a.jpg)
 
 > It provides options and creates the crashed file with a Basic UI Design.
     - First Choice to be made by the User is to choose the File Type.
     - Second Choice is to Enter the File Name.
     - Finally, the Corrupted File is saved in the same directory and it's path is copied to the clipboard.
-
-
-![Crashed_Ss_pdf](https://user-images.githubusercontent.com/96762636/231773787-2272e358-36a6-4621-906c-16653178d500.jpg)
-![Crashed_Ss_docx](https://user-images.githubusercontent.com/96762636/231773899-588034b1-3d50-4bb5-a69e-b0f32b1f7c23.jpg)
