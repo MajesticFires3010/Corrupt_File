@@ -20,7 +20,7 @@ You can install the all requirements for running the code properly from **requir
 
 #### Corrupt_File_Minimal.py
 
-![UI_Minimal](https://user-images.githubusercontent.com/96762636/231773579-5fbe2228-5cd2-4afc-ba41-e70d2f9f44b9.jpg)
+![UI_Minimal](https://user-images.githubusercontent.com/96762636/231775292-02910d8b-cdaa-4d79-9b93-701967d4d4f5.jpg)
 
 > It can be used for running the command once and downloading the crashed file with Minimal Design and only one file at once.
     - Attribute '-h' can be used to see the Help Menu.
